@@ -1,1 +1,1 @@
-# pure-weather
+# Weather data from an API
